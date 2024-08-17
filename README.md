@@ -16,8 +16,7 @@
 
 1. 상단의 [`Fork`](https://github.com/KNU-HAEDAL/bootcamp_division_homework/fork) 버튼을 클릭해 repository를 생성합니다.
    - Owner : 개인 계정
-   - 권장 Repository name: haedal_entryExam_24fw
-   - Repository 이름은 변경 가능합니다. 권장일 뿐이니 원하는 이름으로 작성해주세요.
+   - Repository name: 원하는 이름
 1. **git bash**를 열어서 방금 생성한 repository를 clone합니다.
    ```bash
    git clone https://github.com/{{Owner}}/{{Repository name}}.git
