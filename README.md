@@ -46,6 +46,8 @@
    - commit message는 원하는 내용으로 작성하셔도 됩니다.
 1. repository의 링크를 복사하여 1차 서류 제출란에 제출합니다.
 
+> github 사용이 어려운 분들은 [가이드](./docs/guide.md)와 함께 진행해보세요!
+
 ## [📖 문제 안내](./docs/problems.md)
 
 `Java` 혹은 `JavaScript` 둘 중 하나를 선택해 문제를 풀면 됩니다.
