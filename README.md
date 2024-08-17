@@ -14,26 +14,44 @@
 
 ## ⚙️ 진행과정
 
-1. 상단의 [`Fork`](https://github.com/KNU-HAEDAL/bootcamp_division_homework/fork) 버튼을 클릭해 repository를 생성합니다.
+1. 상단의 [`Fork`](https://github.com/KNU-HAEDAL/2024-FW-welcome-test/fork) 버튼을 클릭해 repository를 생성합니다.
    - Owner : 개인 계정
    - Repository name: 원하는 이름
-1. **git bash**를 열어서 방금 생성한 repository를 clone합니다.
+1. **git bash**를 열어서 방금 생성한 repository를 **clone**합니다.
+
    ```bash
    git clone https://github.com/{{Owner}}/{{Repository name}}.git
-   ```
-1. clone한 repository를 Visual Studio Code로 열어줍니다.
-   ```bash
-   cd haedal_bootcamp_division_homework
-   code .
-   ```
-1. [주의 사항](#🚨-주의-사항)을 지키며 문제를 풉니다.
-1. 본인이 선택한 언어로 [문제](./docs/problems.md)들을 풉니다.
 
-## [📖 과제 확인](./docs/problems.md)
+   # 예시
+   git clone https://github.com/KNU-HAEDAL/2024-FW-welcome-test.git
+   ```
+
+1. clone한 repository를 Visual Studio Code로 열어줍니다.
+
+   ```bash
+    cd {{Repository name}}
+
+    # 예시
+    cd haedal_bootcamp_division_homework
+    code .
+   ```
+
+1. 본인이 선택한 언어로 [문제](./docs/problems.md)들을 풉니다.
+1. github repository에 작성한 코드를 업로드합니다.
+   ```bash
+   git add .
+   git commit -m "입부테스트 문제 풀이"
+   git push origin main
+   ```
+   - commit message는 원하는 내용으로 작성하셔도 됩니다.
+1. repository의 링크를 복사하여 1차 서류 제출란에 제출합니다.
+
+---
+
+## [📖 문제 안내](./docs/problems.md)
 
 `Java` 혹은 `JavaScript` 둘 중 하나를 선택해 문제를 풀면 됩니다.
-
-Spring 수강을 원할 시, `Java`로, React 수강을 원할 시 `JavaScript`로 문제를 풀어야 합니다.
+**Spring** 수강을 원할 시, `Java`로, **React** 수강을 원할 시 `JavaScript`로 문제를 풀어야 합니다.
 
 총 6개의 문제로 구성되어 있으며 repository에 push 하신 뒤, 링크를 제출해주시면 됩니다.
 
