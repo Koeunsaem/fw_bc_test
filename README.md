@@ -37,7 +37,7 @@ Spring 수강을 원할 시, `Java`로, React 수강을 원할 시 `JavaScript`�
 
 총 6개의 문제로 구성되어 있으며 repository에 push 하신 뒤, 링크를 제출해주시면 됩니다.
 
-오류 및 문의사항은 [오픈채팅방](https://open.kakao.com/o/snHNtjJg)에 남겨주세요. 답장 드리겠습니다.
+오류 및 문의사항은 [오픈채팅방](https://open.kakao.com/o/snHNtjJg)에 남겨주세요.
 
 ## 🚨 주의 사항
 
